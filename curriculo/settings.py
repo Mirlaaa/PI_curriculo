@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-8av&-*4p8q75e5k*3xl7w4juz&%)gd-0cl%rdq10keheu!*f+&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://curriculo-ml.herokuapp.com/']
 
 
 # Application definition
